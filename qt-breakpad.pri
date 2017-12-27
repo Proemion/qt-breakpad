@@ -2,6 +2,7 @@ HEADERS += $$PWD/qt_breakpad.h
 SOURCES += $$PWD/qt_breakpad.cpp
 
 INCLUDEPATH += $$PWD
+INCLUDEPATH += $$PWD/vendor/
 INCLUDEPATH += $$PWD/vendor/breakpad/src
 
 # Windows
